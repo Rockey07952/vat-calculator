@@ -9,5 +9,14 @@
 }
 
 .header{
+  padding: 50px;
+}
+
+footer {
+  font-size: small;
+  color: darkolivegreen;
+}
+
+body {
   padding: 10px;
 }
